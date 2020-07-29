@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_MENUsuggested brandsTidak ada brand yan_c566c2</name>
+   <tag></tag>
+   <elementGuidId>a696d8c3-417b-49be-a99d-ba20ae1cdf09</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//header[@id='stickyHeader']/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>main-header</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>MENUsuggested brandsTidak ada brand yang ditemukan untuk suggested productsTidak ada produk yang ditemukan untuk popular brandsbest sellers products 30%  ADD TO BAG QUICK VIEWSenkaSenka - Perfect WhipRp 32.000 - Rp 56.000Rp 22.400 - Rp 39.200-30%More Options Available(7,5k) ADD TO BAG QUICK VIEWMedihealTeatree Care Solution Essential Mask EXRp 29.000(4k) ADD TO BAG QUICK VIEWCOSRXAHA/BHA Clarifying Treatment TonerRp 200.000(7,5k) ADD TO BAG QUICK VIEWCOSRXLow pH Good Morning CleanserRp 149.000(4,7k) ADD TO BAG QUICK VIEWDear Me BeautyPerfect Matte Lip CoatRp 109.000More Options Available(2,9k)popular products ADD TO BAG QUICK VIEWBLP BeautyFace PowderRp 149.000More Options Available(1,4k) ADD TO BAG QUICK VIEWEminaBare With Me Mineral CushionRp 126.000More Options Available(1,4k) 25%  ADD TO BAG QUICK VIEWSafiWhite Expert Purifying Cleanser 2 in 1Rp 60.000Rp 45.000-25%(1,4k)Mutiara Rizky  @mutiararizky431 SOCO POINTS 0 MY ORDERS  REVIEW  WISHLIST LOG OUTMY BAG(1)1SUCCESSFULLY ADDED TO YOUR SHOPPING BAGTotalRp 0CHECKOUTBack to HomeShop by CategoriesShop by BrandsDownload Soco by Sociolla apptersedia di iOS dan AndroidPROMOTIONSNEW ARRIVAL Bellflower sale up to 30% off🎉 INVITE FRIENDS &amp; GET BENEFITMY SOCO POINTSLILLASOCOBEAUTY JOURNALLOG OUT</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;stickyHeader&quot;)/div[@class=&quot;main-header&quot;]</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//header[@id='stickyHeader']/div</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='SOCO'])[1]/following::div[3]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='BEAUTY JOURNAL'])[1]/following::div[3]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//header/div</value>
+   </webElementXpaths>
+</WebElementEntity>
